@@ -1,27 +1,27 @@
-### IQA ReadMe
+# IQA ReadMe
 ## Setting up this project locally
 
 This project was created using create-react-app. In order to run it you will need to install react locally:
 
-# Install React
+### Install React
 
-## `npm install react@latest react-dom@latest`
+### `npm install react@latest react-dom@latest`
 
 You can also use this command to update react to the latest version.
 
 This project also uses Material UI which you will need to install to run locally:
 
-# Install Material UI
+### Install Material UI
 
-## `npm install @mui/material @emotion/react @emotion/styled`
+### `npm install @mui/material @emotion/react @emotion/styled`
 
-### If you don't have Node.JS installed
+## If you don't have Node.JS installed
 
 install choco via (https://chocolatey.org/install)
 
 then in terminal/Powershell run:
 
-## `choco install nodejs.install`
+### `choco install nodejs.install`
 
 ## Available Scripts
 
